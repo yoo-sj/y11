@@ -1,0 +1,12 @@
+C:\Users\user\source\repos\Movie1\Movie1\bin\Debug\Movie1.exe.config
+C:\Users\user\source\repos\Movie1\Movie1\bin\Debug\Movie1.exe
+C:\Users\user\source\repos\Movie1\Movie1\bin\Debug\Movie1.pdb
+C:\Users\user\source\repos\Movie1\Movie1\obj\Debug\Movie1.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Movie1\Movie1\obj\Debug\Movie1.Form1.resources
+C:\Users\user\source\repos\Movie1\Movie1\obj\Debug\Movie1.Properties.Resources.resources
+C:\Users\user\source\repos\Movie1\Movie1\obj\Debug\Movie1.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Movie1\Movie1\obj\Debug\Movie1.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Movie1\Movie1\obj\Debug\Movie1.exe
+C:\Users\user\source\repos\Movie1\Movie1\obj\Debug\Movie1.pdb
+C:\Users\user\source\repos\Movie1\Movie1\obj\Debug\Movie1.Form2.resources
+C:\Users\user\source\repos\Movie1\Movie1\obj\Debug\Movie1.Form3.resources
